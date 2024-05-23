@@ -9,3 +9,5 @@ print(A)
 
 B =["dog","cat","bird"] 
 print(B[2])
+
+#git push origin main
